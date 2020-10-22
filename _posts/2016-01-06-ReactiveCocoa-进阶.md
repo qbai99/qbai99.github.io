@@ -4,7 +4,7 @@ title:      核心原理介绍
 subtitle:   使用区块链和电子签名技术健全失信联合惩戒机制
 date:       2020-10-22
 author:     Admin
-header-img: https://www.bbva.com/wp-content/uploads/en/2017/03/blockchain-hyperledger-fintech-bbva-1920x0-c-f.jpg
+header-img: img/mypic-1.jpg
 catalog: true
 
 tags:
