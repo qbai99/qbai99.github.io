@@ -4,7 +4,7 @@ title:      核心原理介绍
 subtitle:   使用区块链和电子签名技术健全失信联合惩戒机制
 date:       2020-10-22
 author:     Admin
-header-img: img/post-bg-ios9-web.jpg
+header-img: https://www.bbva.com/wp-content/uploads/en/2017/03/blockchain-hyperledger-fintech-bbva-1920x0-c-f.jpg
 catalog: true
 
 tags:
@@ -31,7 +31,7 @@ tags:
 - **政府**与**市场、社会**之间的联合。
 
 - 政府内部**各行政主体**之间的联合。
-# 信用平台信息共享的现状
+#信用平台信息共享的现状
 
 ## **公共信用平台**
 
