@@ -1,19 +1,20 @@
-```
 ---
 layout:     post
-title:      进一步了解如何运作
-subtitle:   使用区块链和电子签名技术完善联合惩戒机制
+title:      ReactiveCocoa 进阶
+subtitle:   函数式编程框架 ReactiveCocoa 进阶
 date:       2017-01-06
-author:     admin
+author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
+layout:     keynote
+iframe:     "http://huangxuan.me/js-module-7day/"
 tags:
     - iOS
     - ReactiveCocoa
     - 函数式编程
     - 开源框架
+    
 ---
-```
 
 # 背景
 
