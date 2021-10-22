@@ -1,7 +1,7 @@
 # Site settings
 title: Tomson Riviera
 SEOTitle: Tomson Riviera Committee(Hong Kong)｜汤臣一品业主委员会（香港）
-header-img: img/hongkong-victoria.jpg
+header-img: img/hongkong-night.jpg
 email: blockthesis@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, blockthesis, 邱柏荧, iOS, Apple, iPhone"
@@ -17,12 +17,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
+# RSS: false
 # weibo_username:     blockthesis
-zhihu_username:     blockthesis
-github_username:    blockthesis
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# zhihu_username:     blockthesis
+# github_username:    blockthesis
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
 #twitter_username:   blockthesis
 
 
