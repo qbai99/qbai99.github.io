@@ -629,8 +629,9 @@ pre code {
   font-family: 'Lora', 'Times New Roman', serif;
   color: #808080;
   font-size: 13px;
-  /* font-style: italic; */
+  font-style: italic;
   margin-top: 15px;
+  text-align: right;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
