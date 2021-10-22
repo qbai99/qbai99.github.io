@@ -18,7 +18,7 @@ description: "No time like the present"
             {{ post.content | strip_html | truncate:200 }}
         </div>
     </a>
-    <p class="post-meta">
+    <p class="post-meta" style="text-align: right; font-size: 13px;">
         <!-- by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}  -->
         发表于 {{ post.date | date: "%Y年%-m月%-d日" }}
     </p>
