@@ -19,7 +19,8 @@ description: "No time like the present"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B
+        <!-- by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}  -->
+        Posted on {{ post.date | date: "%B
         %-d, %Y" }}
     </p>
 </div>
